@@ -1,0 +1,16 @@
+C:\test\object-comparer\object-comparer\ObjectComparer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\test\object-comparer\object-comparer\ObjectComparer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\test\object-comparer\object-comparer\ObjectComparer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\test\object-comparer\object-comparer\ObjectComparer.Tests\bin\Debug\ObjectComparer.Tests.dll
+C:\test\object-comparer\object-comparer\ObjectComparer.Tests\bin\Debug\ObjectComparer.Tests.pdb
+C:\test\object-comparer\object-comparer\ObjectComparer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\test\object-comparer\object-comparer\ObjectComparer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\test\object-comparer\object-comparer\ObjectComparer.Tests\bin\Debug\ObjectComparer.dll
+C:\test\object-comparer\object-comparer\ObjectComparer.Tests\bin\Debug\ObjectComparer.pdb
+C:\test\object-comparer\object-comparer\ObjectComparer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\test\object-comparer\object-comparer\ObjectComparer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\test\object-comparer\object-comparer\ObjectComparer.Tests\obj\Debug\ObjectComparer.Tests.csprojAssemblyReference.cache
+C:\test\object-comparer\object-comparer\ObjectComparer.Tests\obj\Debug\ObjectComparer.Tests.csproj.CoreCompileInputs.cache
+C:\test\object-comparer\object-comparer\ObjectComparer.Tests\obj\Debug\ObjectComparer.Tests.csproj.CopyComplete
+C:\test\object-comparer\object-comparer\ObjectComparer.Tests\obj\Debug\ObjectComparer.Tests.dll
+C:\test\object-comparer\object-comparer\ObjectComparer.Tests\obj\Debug\ObjectComparer.Tests.pdb
